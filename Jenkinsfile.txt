@@ -1,0 +1,4 @@
+login token :
+637082cfd2d6c7f6e22756b42077047a2a4414a4
+
+url: 'https://github.com/tkgregory/sonarqube-jacoco-code-coverage.git'
